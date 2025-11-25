@@ -1,4 +1,4 @@
-CHECK_ROSTAR_DUBBELS
+CHECK_ROSTAR_DUBBELS/n
 ++++++++++++++++++++
 
 doet een controle op de dump vanuit ROSTAR of er meerdere chauffeurs op dezelfde dienst gepland zijn
